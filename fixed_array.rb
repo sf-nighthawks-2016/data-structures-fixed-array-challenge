@@ -6,5 +6,6 @@ class FixedArray
 		@array = Array.new(size)
 	end
 
-	
+
+
 end
